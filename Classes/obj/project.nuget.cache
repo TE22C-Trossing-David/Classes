@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0FaDzgVxMig20nu0rVSaKhDWXkiAizw+MZHodWBi9WtMYIaVkVXn58aJf4sh1ZIva3vLhykqHZUdBPlAKJgUw==",
+  "success": true,
+  "projectFilePath": "C:\\Programering\\Classes\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.trossing\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\david.trossing\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
